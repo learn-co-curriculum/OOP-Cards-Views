@@ -68,3 +68,5 @@ magicCard1.frame = CGRectMake(x,y,width,height);
 
 ### Extra Credit 
 1. Add a button to the bottom of the screen.  Make a button press toggle the padding from 20 pts to 30 pts.  Pressing the button again will change the padding back to 20 pts.   
+
+<a href='https://learn.co/lessons/OOP-Cards-Views' data-visibility='hidden'>View this lesson on Learn.co</a>
